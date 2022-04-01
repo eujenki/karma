@@ -1,2 +1,2 @@
 # karma
-https://eugenrosca.ml/
+https://eugenrosca.info/
