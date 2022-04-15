@@ -1,2 +1,2 @@
 # karma
-http://eugenrosca.info/
+https://eujenki.github.io/karma/
